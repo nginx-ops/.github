@@ -12,4 +12,5 @@
 -->
 
 加入我们
-<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=OUO2idlvjLwtRnVy2kceN_pJLvLx-SY3&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="nginx-ops开发群" title="nginx-ops开发群"></a>
+![qrcode-567](https://user-images.githubusercontent.com/49888630/189460485-80a3e3d4-4a1c-43f7-af75-e118bc615b71.png)
+
